@@ -38,8 +38,12 @@ html, body {
 
 .centered {
 	text-align: center;
+	padding-top: 10%;
 }
 
+.cent-foot {
+	text-align: center;
+}
 *,
 *:after,
 *:before {
