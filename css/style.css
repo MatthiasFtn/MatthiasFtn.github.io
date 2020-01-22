@@ -327,6 +327,9 @@ span{
 .avatar-first{
 	width: 40%;
 }
+.avatar {
+    width: 20%;
+}
 .avatar-apropos{
 	margin-left: 0;
 	width: 20%;
